@@ -47,7 +47,9 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-456&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-dev-456&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-dev-456&theme=react-dark" />  
 </p>
+<!-- Shows your contribution activity -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-dev-456&layout=compact&theme=radical" alt="Top Languages" width="45%" />
