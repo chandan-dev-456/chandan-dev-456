@@ -1,10 +1,7 @@
-# Hi 👋 I'm Chandan
+<h1 align="center">Hi 👋 I'm Chandan</h1>
 
-### 💻 Full Stack Developer
+<p align="center">
 
-- 🌱 Currently learning MERN Stack
-- 📚 Practicing DSA
-- 🚀 Open Source Contributor
-- 🎯 Goal: Software Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor;Future+Software+Engineer)](https://git.io/typing-svg)
 
-Thanks for visiting my profile!
+</p>
