@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack Web Developer </h3>
+<h1 align="center">Hi 👋, I'm Chandan</h1>
+<h3 align="center">A passionate Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandan-dev-456&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -45,13 +45,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-456&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-dev-456&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-dev-456&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p> -->
 
 ---
 
@@ -60,18 +60,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p> -->
 
----
-
-### 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/yourusername/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical" />
-  </a>
-</p>
 
 ---
 
@@ -85,10 +73,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
-</p>
 
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Chandan](https://github.com/chandan-dev-456)
