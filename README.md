@@ -42,28 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=chandan-dev-456&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-dev-456&theme=radical" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-dev-456&theme=react-dark" />  
-</p>
-<!-- Shows your contribution activity -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-dev-456&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p> -->
-
-
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</p> -->
-
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
